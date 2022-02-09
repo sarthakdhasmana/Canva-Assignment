@@ -1485,6 +1485,8 @@ a{
         padding: 10px 0px;
         box-shadow: none;
         background: #ffffff;
+        width: 80px;
+        height: 90px;
     }
     .digit {
         font-size: 32spx;
@@ -1650,6 +1652,7 @@ a{
     }
     .contact_title {
         font-weight: 500;
+        font-size: 13px;
     }
     .phone-no{
         padding-right: 8px;
