@@ -1,4 +1,3 @@
-alert('please view in browser at 80% zoom for better result');
 // animation for Count-down
 const countDown = () => {
     const countDate = new Date("February 24, 2022 00:00:00");
